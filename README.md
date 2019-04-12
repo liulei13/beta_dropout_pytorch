@@ -14,10 +14,10 @@ We show that by adjusting the shape parameter β, the β-dropout can yield the B
 * argparse
 
 ## Folder 
-* data               MINIST dataset
-* dropout_methods    Source code for Bernoulli, Gaussian, uniform and beta dropout methods
-* examples           Source code used to reproduce the experimental results in the paper with Hinton's network(784-800-800-10) on MINIST
-* trained_models     Provide trained model and inference code for easy comparison with adaptive beta dropout
+* data:               MINIST dataset
+* dropout_methods:    Source code for Bernoulli, Gaussian, uniform and beta dropout methods
+* examples:           Source code used to reproduce the experimental results in the paper with Hinton's network(784-800-800-10) on MINIST
+* trained_models:     Provide trained model and inference code for easy comparison with adaptive beta dropout
 
 ## Usage
 ```
