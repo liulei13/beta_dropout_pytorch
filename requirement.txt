@@ -1,0 +1,4 @@
+argparse
+torch
+torchvision==0.2.1
+numpy
