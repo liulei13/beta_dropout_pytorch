@@ -31,7 +31,7 @@ or
 
 ```
 python mlp_beta_dropout.py
-
+```
 You can use mlp_beta_dropout_approach_bernoulli.sh to reproduce the result of the Bernoulli dropout.
 You can use mlp_beta_dropout_approach_uniform.sh to reproduce the result of the uniform dropout.
 
