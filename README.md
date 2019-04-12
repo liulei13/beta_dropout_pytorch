@@ -1,5 +1,5 @@
 ## Introduction
-This is the implementation of Lei's [beta-Dropout: A Unified Dropout] paper in PyTorch.
+This is the implementation of Lei's [Beta-Dropout: A Unified Dropout] paper in PyTorch.
 L. Liu, Y. Luo, X. Shen, M. Sun and B. Li, "$\beta$ -Dropout: A Unified Dropout," in IEEE Access, vol. 7, pp. 36140-36153, 2019.
 doi: 10.1109/ACCESS.2019.2904881
 
