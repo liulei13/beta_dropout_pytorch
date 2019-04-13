@@ -48,10 +48,10 @@ journal={IEEE Access},
 title={ $\beta$ -Dropout: A Unified Dropout},
 year={2019},
 volume={7},
-number={},
+number={1},
 pages={36140-36153},
 keywords={Shape;Task analysis;Neurons;Gaussian distribution;Tuning;Deep learning;Training;Regularization;dropout;deep learning;Gaussian dropout;Bernoulli dropout},
 doi={10.1109/ACCESS.2019.2904881},
 ISSN={2169-3536},
-month={},}
+month={December},}
 ```
